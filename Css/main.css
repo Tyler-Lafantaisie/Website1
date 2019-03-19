@@ -10,3 +10,38 @@ header{
     display: block;
     background-color: #101010;
 }
+footer{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101001;
+}
+/*navagation bar starts here*/
+.navagation{
+    width: 80%;
+    margin: 0;
+    float: right;
+}
+.navagation,ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+
+}
+.navagation,li{
+display: inline-block;
+margin-left: 70px;
+paddign-top: 5px;
+
+}
+.navagation,a{
+color: #ffffff;
+text-decoration: none;
+}
+.navagation,a:hover{
+    color: #FFC300;
+}
+#title{
+    color: #ffffff;
+}
