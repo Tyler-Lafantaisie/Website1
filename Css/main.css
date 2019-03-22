@@ -15,11 +15,13 @@ footer{
     width: 100%;
     height: 80px;
     display: block;
-    background-color: #101001;
+    background-color: #101010;
+    position: absolute;
+    
 }
 /*navagation bar starts here*/
 .navagation{
-    width: 80%;
+    width: 100%;
     margin: 0;
     float: right;
 }
@@ -33,12 +35,13 @@ footer{
 .navagation,li{
 display: inline-block;
 margin-left: 70px;
-paddign-top: 5px;
+padding-top: 5px;
 
 }
 .navagation,a{
 color: #ffffff;
 text-decoration: none;
+text-align: center;
 }
 .navagation,a:hover{
     color: #FFC300;
@@ -50,6 +53,7 @@ text-decoration: none;
     overflow: hidden;
     height: 350px;
 }
+/* slide show*/
 .Slider, figure, div{
     width: 20%;
     float: left;
@@ -117,4 +121,12 @@ text-decoration: none;
     96%{
         left: 0;
     }
+}
+/*Main content*/
+.home{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
 }
