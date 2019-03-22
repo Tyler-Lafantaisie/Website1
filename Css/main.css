@@ -130,3 +130,18 @@ text-align: center;
     margin-right: auto;
     width: 100%; 
 }
+.banner{
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.banner-one{
+    text-align: center;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    background-color: aqua;
+    background-image: linear-gradient(to bottom right, aqua,aquamarine)
+}
