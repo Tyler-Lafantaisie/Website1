@@ -151,3 +151,11 @@ text-align: center;
     display: block;
     width: 100%;
 }
+.banner-two{
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    background-color: #ff8000;
+    background-image: linear-gradient(to top left, #ff8000,#f0050f)
+}
