@@ -145,3 +145,9 @@ text-align: center;
     background-color: aqua;
     background-image: linear-gradient(to bottom right, aqua,aquamarine)
 }
+.about{
+    text-align: center;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+}
