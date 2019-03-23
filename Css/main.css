@@ -160,7 +160,9 @@ text-align: center;
 .contacts a{
     color:black;
 }
-
+.contacts a:hover{
+    color: #E87613;
+}
 
 footer{
     width: 100%;
