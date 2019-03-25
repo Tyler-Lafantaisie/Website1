@@ -16,6 +16,7 @@ header{
     width: 100%;
     margin: 0;
     float: right;
+    overflow: auto;
 }
 .navagation,ul{
     margin: 0;
@@ -174,6 +175,11 @@ text-align: center;
     background-color: #4B088A;
     background-image: linear-gradient(to bottom left, #4b0884, #8348FA, #DF01F7)
 }
+.shop{
+    width: 100%;
+}
+#custom{
+   margin-left: 330px; 
 }
 
 footer{
