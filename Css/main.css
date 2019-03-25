@@ -135,7 +135,7 @@ text-align: center;
     width: 100%;
     overflow: hidden;
     background-color: aqua;
-    background-image: linear-gradient(to bottom right, aqua,rgb(9, 250, 170))
+    background-image: linear-gradient(to bottom right, aqua, blue )
 }
 .about{
     text-align: center;
@@ -160,8 +160,20 @@ text-align: center;
 .contacts a{
     color:black;
 }
+.links{
+    width: 100%;
+}
 .contacts a:hover{
     color: #E87613;
+}
+.banner-three{
+    width: 100%;
+    text-align: center;
+    display: block;
+    overflow: auto;
+    background-color: #4B088A;
+    background-image: linear-gradient(to bottom left, #4b0884, #8348FA, #DF01F7)
+}
 }
 
 footer{
