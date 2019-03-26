@@ -177,18 +177,21 @@ text-align: center;
 }
 .shop{
     width: 100%;
+  
 }
 #custom{
-   margin-left: 330px; 
+   margin-left: 750px; 
+   display: block;
+   
+    padding: 30px;
 }
-
-footer{
-    width: 100%;
-    height: 80px;
+#dev{
     display: block;
-    background-color: #101010;
+    overflow: auto;
+    margin: 410px;
+   margin-left: 750px;
+   margin-right: 386px;
+    padding: 30px;
+    margin-bottom: 450px;
     position: absolute;
-    bottom: 0;
-    height: 40px;
-    margin-top: 40px;
 }
