@@ -261,9 +261,8 @@ figure {
     margin-right: auto;
     margin-left: auto;
     border: black solid thick;
-    bottom: 100%;
-}
-footer{
-    height: 50px;
-    padding-bottom: -50px;
+    clear: both;
+    
+
+margin-bottom: 0rem;
 }
